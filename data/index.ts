@@ -100,7 +100,7 @@ export const projects = [
     des: "An elegantly designed portfolio website with modern, sleek, and animated features.",
     img: "/portfolio.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/acui.png"],
-    link: "https://github.com/adrianhajdin/iphone",
+    link: "https://github.com/shauryaa19/Portfolio-Website",
   },
 ];
 
